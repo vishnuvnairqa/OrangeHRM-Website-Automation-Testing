@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testpkg.F_LeaveTest">
+        <methods>
+          <include name="srt2"/>
+          <include name="srto"/>
+          <include name="OpenOrange"/>
+          <include name="srt"/>
+          <include name="srt1"/>
+        </methods>
+      </class> <!-- testpkg.F_LeaveTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

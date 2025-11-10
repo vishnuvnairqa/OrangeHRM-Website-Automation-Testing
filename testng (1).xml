@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+<!-- Test -->
+      <class name="testpkg.A_LoginTest"/>
+      <class name="testpkg.B_DashboardTest"/>
+      <class name="testpkg.C_SearchTest"/>
+      
+      
+       <!-- Test -->
+         <class name="testpkg.D_PIMTest"/>
+         <class name="testpkg.E_AdminTest"/>
+         <class name="testpkg.F_LeaveTest"/>
+      <!--  <class name="testpkg.I_TimesheetTest"/>-->
+         <class name="testpkg.G_claimTest"/>
+      <!--  <class name="testpkg.J_PerformanceTest"/> -->
+       
+      
+      
+      <!-- Test -->
+     <class name="testpkg.H_RecruitmentTest"/> 
+     
+      <class name="testpkg.K_MaintenanceTest"/>
+    
+      
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

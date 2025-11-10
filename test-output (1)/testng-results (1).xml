@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="25" passed="25" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-29T14:34:41 IST" name="Suite" finished-at="2025-10-29T14:39:03 IST" duration-ms="262403">
+    <groups>
+    </groups>
+    <test started-at="2025-10-29T14:34:41 IST" name="Test" finished-at="2025-10-29T14:39:03 IST" duration-ms="262403">
+      <class name="testpkg.K_MaintenanceTest">
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.K_MaintenanceTest@b2c9a9c]" started-at="2025-10-29T14:38:35 IST" name="srt" finished-at="2025-10-29T14:38:39 IST" duration-ms="4039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="OpenOrange()[pri:0, instance:testpkg.K_MaintenanceTest@b2c9a9c]" started-at="2025-10-29T14:38:39 IST" name="OpenOrange" finished-at="2025-10-29T14:38:44 IST" duration-ms="5202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenOrange -->
+        <test-method signature="bypass()[pri:0, instance:testpkg.K_MaintenanceTest@b2c9a9c]" started-at="2025-10-29T14:38:44 IST" name="bypass" finished-at="2025-10-29T14:38:51 IST" duration-ms="7209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bypass -->
+        <test-method signature="searchPastEmployee()[pri:0, instance:testpkg.K_MaintenanceTest@b2c9a9c]" started-at="2025-10-29T14:38:51 IST" name="searchPastEmployee" finished-at="2025-10-29T14:39:02 IST" duration-ms="11033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPastEmployee -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.K_MaintenanceTest@b2c9a9c]" started-at="2025-10-29T14:39:02 IST" name="srt2" finished-at="2025-10-29T14:39:03 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+      </class> <!-- testpkg.K_MaintenanceTest -->
+      <class name="testpkg.E_AdminTest">
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.E_AdminTest@510f3d34]" started-at="2025-10-29T14:36:18 IST" name="srt" finished-at="2025-10-29T14:36:22 IST" duration-ms="3979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="OpenOrange()[pri:1, instance:testpkg.E_AdminTest@510f3d34]" started-at="2025-10-29T14:36:22 IST" name="OpenOrange" finished-at="2025-10-29T14:36:26 IST" duration-ms="4192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenOrange -->
+        <test-method signature="createNewUser()[pri:2, instance:testpkg.E_AdminTest@510f3d34]" started-at="2025-10-29T14:36:26 IST" name="createNewUser" finished-at="2025-10-29T14:36:40 IST" duration-ms="13496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method signature="search()[pri:3, instance:testpkg.E_AdminTest@510f3d34]" started-at="2025-10-29T14:36:40 IST" name="search" finished-at="2025-10-29T14:36:48 IST" duration-ms="8397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="confirmation()[pri:4, instance:testpkg.E_AdminTest@510f3d34]" started-at="2025-10-29T14:36:48 IST" name="confirmation" finished-at="2025-10-29T14:36:55 IST" duration-ms="6874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmation -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.E_AdminTest@510f3d34]" started-at="2025-10-29T14:36:55 IST" name="srt2" finished-at="2025-10-29T14:36:55 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+      </class> <!-- testpkg.E_AdminTest -->
+      <class name="testpkg.A_LoginTest">
+        <test-method is-config="true" signature="srto()[pri:0, instance:testpkg.A_LoginTest@2a5c8d3f]" started-at="2025-10-29T14:34:41 IST" name="srto" finished-at="2025-10-29T14:34:42 IST" duration-ms="1442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srto -->
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.A_LoginTest@2a5c8d3f]" started-at="2025-10-29T14:34:42 IST" name="srt" finished-at="2025-10-29T14:34:46 IST" duration-ms="3927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="test1()[pri:0, instance:testpkg.A_LoginTest@2a5c8d3f]" started-at="2025-10-29T14:34:46 IST" name="test1" finished-at="2025-10-29T14:35:07 IST" duration-ms="20967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.A_LoginTest@2a5c8d3f]" started-at="2025-10-29T14:35:07 IST" name="srt2" finished-at="2025-10-29T14:35:07 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+        <test-method is-config="true" signature="srt1()[pri:0, instance:testpkg.A_LoginTest@2a5c8d3f]" started-at="2025-10-29T14:39:03 IST" name="srt1" finished-at="2025-10-29T14:39:03 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt1 -->
+      </class> <!-- testpkg.A_LoginTest -->
+      <class name="testpkg.G_ClaimsTest">
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.G_ClaimsTest@8297b3a]" started-at="2025-10-29T14:37:22 IST" name="srt" finished-at="2025-10-29T14:37:26 IST" duration-ms="3951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="OpenOrange()[pri:1, instance:testpkg.G_ClaimsTest@8297b3a]" started-at="2025-10-29T14:37:26 IST" name="OpenOrange" finished-at="2025-10-29T14:37:30 IST" duration-ms="4221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenOrange -->
+        <test-method signature="Assign()[pri:2, instance:testpkg.G_ClaimsTest@8297b3a]" started-at="2025-10-29T14:37:30 IST" name="Assign" finished-at="2025-10-29T14:37:52 IST" duration-ms="21996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assign -->
+        <test-method signature="searchByName()[pri:3, instance:testpkg.G_ClaimsTest@8297b3a]" started-at="2025-10-29T14:37:52 IST" name="searchByName" finished-at="2025-10-29T14:38:04 IST" duration-ms="11478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByName -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.G_ClaimsTest@8297b3a]" started-at="2025-10-29T14:38:04 IST" name="srt2" finished-at="2025-10-29T14:38:04 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+      </class> <!-- testpkg.G_ClaimsTest -->
+      <class name="testpkg.F_LeaveTest">
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.F_LeaveTest@7817fd62]" started-at="2025-10-29T14:36:55 IST" name="srt" finished-at="2025-10-29T14:36:59 IST" duration-ms="4044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="OpenOrange()[pri:0, instance:testpkg.F_LeaveTest@7817fd62]" started-at="2025-10-29T14:36:59 IST" name="OpenOrange" finished-at="2025-10-29T14:37:04 IST" duration-ms="4202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenOrange -->
+        <test-method signature="assignLeaveTest()[pri:0, instance:testpkg.F_LeaveTest@7817fd62]" started-at="2025-10-29T14:37:04 IST" name="assignLeaveTest" finished-at="2025-10-29T14:37:22 IST" duration-ms="18240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignLeaveTest -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.F_LeaveTest@7817fd62]" started-at="2025-10-29T14:37:22 IST" name="srt2" finished-at="2025-10-29T14:37:22 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+      </class> <!-- testpkg.F_LeaveTest -->
+      <class name="testpkg.D_PIMTest">
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.D_PIMTest@6ad82709]" started-at="2025-10-29T14:35:36 IST" name="srt" finished-at="2025-10-29T14:35:40 IST" duration-ms="3931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="OpenOrange()[pri:1, instance:testpkg.D_PIMTest@6ad82709]" started-at="2025-10-29T14:35:40 IST" name="OpenOrange" finished-at="2025-10-29T14:35:44 IST" duration-ms="4223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenOrange -->
+        <test-method signature="nameAdd()[pri:2, instance:testpkg.D_PIMTest@6ad82709]" started-at="2025-10-29T14:35:44 IST" name="nameAdd" finished-at="2025-10-29T14:35:59 IST" duration-ms="14907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameAdd -->
+        <test-method signature="searchByName()[pri:3, instance:testpkg.D_PIMTest@6ad82709]" started-at="2025-10-29T14:35:59 IST" name="searchByName" finished-at="2025-10-29T14:36:08 IST" duration-ms="9335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByName -->
+        <test-method signature="searchById()[pri:4, instance:testpkg.D_PIMTest@6ad82709]" started-at="2025-10-29T14:36:08 IST" name="searchById" finished-at="2025-10-29T14:36:18 IST" duration-ms="9542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchById -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.D_PIMTest@6ad82709]" started-at="2025-10-29T14:36:18 IST" name="srt2" finished-at="2025-10-29T14:36:18 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+      </class> <!-- testpkg.D_PIMTest -->
+      <class name="testpkg.C_SearchTest">
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.C_SearchTest@61322f9d]" started-at="2025-10-29T14:35:19 IST" name="srt" finished-at="2025-10-29T14:35:23 IST" duration-ms="4196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="OpenOrange()[pri:0, instance:testpkg.C_SearchTest@61322f9d]" started-at="2025-10-29T14:35:23 IST" name="OpenOrange" finished-at="2025-10-29T14:35:27 IST" duration-ms="4187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenOrange -->
+        <test-method signature="search()[pri:0, instance:testpkg.C_SearchTest@61322f9d]" started-at="2025-10-29T14:35:27 IST" name="search" finished-at="2025-10-29T14:35:32 IST" duration-ms="4334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="searchInvalid()[pri:0, instance:testpkg.C_SearchTest@61322f9d]" started-at="2025-10-29T14:35:32 IST" name="searchInvalid" finished-at="2025-10-29T14:35:36 IST" duration-ms="4303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInvalid -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.C_SearchTest@61322f9d]" started-at="2025-10-29T14:35:36 IST" name="srt2" finished-at="2025-10-29T14:35:36 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+      </class> <!-- testpkg.C_SearchTest -->
+      <class name="testpkg.H_RecruitmentTest">
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.H_RecruitmentTest@2362f559]" started-at="2025-10-29T14:38:04 IST" name="srt" finished-at="2025-10-29T14:38:08 IST" duration-ms="3779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="loginAndOpenAddCandidatePage()[pri:1, instance:testpkg.H_RecruitmentTest@2362f559]" started-at="2025-10-29T14:38:08 IST" name="loginAndOpenAddCandidatePage" finished-at="2025-10-29T14:38:12 IST" duration-ms="4239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndOpenAddCandidatePage -->
+        <test-method signature="addCandidateDetails()[pri:2, instance:testpkg.H_RecruitmentTest@2362f559]" started-at="2025-10-29T14:38:12 IST" name="addCandidateDetails" finished-at="2025-10-29T14:38:23 IST" depends-on-methods="testpkg.H_RecruitmentTest.loginAndOpenAddCandidatePage" duration-ms="11053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCandidateDetails -->
+        <test-method signature="searchAndFetchCandidate()[pri:3, instance:testpkg.H_RecruitmentTest@2362f559]" started-at="2025-10-29T14:38:23 IST" name="searchAndFetchCandidate" finished-at="2025-10-29T14:38:34 IST" duration-ms="11387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndFetchCandidate -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.H_RecruitmentTest@2362f559]" started-at="2025-10-29T14:38:34 IST" name="srt2" finished-at="2025-10-29T14:38:35 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+      </class> <!-- testpkg.H_RecruitmentTest -->
+      <class name="testpkg.B_DashboardTest">
+        <test-method is-config="true" signature="srt()[pri:0, instance:testpkg.B_DashboardTest@65e98b1c]" started-at="2025-10-29T14:35:07 IST" name="srt" finished-at="2025-10-29T14:35:11 IST" duration-ms="3913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt -->
+        <test-method signature="OpenOrange()[pri:0, instance:testpkg.B_DashboardTest@65e98b1c]" started-at="2025-10-29T14:35:11 IST" name="OpenOrange" finished-at="2025-10-29T14:35:16 IST" duration-ms="5200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenOrange -->
+        <test-method signature="printDashboardWidgetTitles()[pri:0, instance:testpkg.B_DashboardTest@65e98b1c]" started-at="2025-10-29T14:35:16 IST" name="printDashboardWidgetTitles" finished-at="2025-10-29T14:35:19 IST" depends-on-methods="testpkg.B_DashboardTest.OpenOrange" duration-ms="2254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printDashboardWidgetTitles -->
+        <test-method is-config="true" signature="srt2()[pri:0, instance:testpkg.B_DashboardTest@65e98b1c]" started-at="2025-10-29T14:35:19 IST" name="srt2" finished-at="2025-10-29T14:35:19 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srt2 -->
+      </class> <!-- testpkg.B_DashboardTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
